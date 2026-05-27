@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterualculate",
+        "uuid": 29990120,
+        "checksum": "rwwps"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
